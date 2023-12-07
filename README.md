@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedl1710" alt="ahmedl1710" /></a> </p>
 
-<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif?cid=ecf05e47czcc532765ws5oumsyflmrr3l84ahc8wpu2orb87&ep=v1_gifs_related&rid=giphy.gif&ct=s">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qwi7fF1bfJQMPlTZ43/giphy.gif">
 
 - 🌱 I’m currently learning **Javascript, Typescript ,Java , python, CyberSecurity , Devops**
 
